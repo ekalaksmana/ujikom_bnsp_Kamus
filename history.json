@@ -1,0 +1,28 @@
+[
+    {
+        "namabangun": "Segitiga",
+        "alas": "12",
+        "tinggi": "12",
+        "hasil": 72,
+        "create_at": "March 10, 2021, 3:51 am"
+    },
+    {
+        "namabangun": "Persegi",
+        "sisi": "22",
+        "hasil": 484,
+        "create_at": "March 10, 2021, 3:51 am"
+    },
+    {
+        "namabangun": "Lingkaran",
+        "jarijari": "25",
+        "hasil": 1962.5,
+        "create_at": "March 10, 2021, 3:51 am"
+    },
+    {
+        "namabangun": "Segitiga",
+        "alas": "22",
+        "tinggi": "23",
+        "hasil": 253,
+        "create_at": "March 10, 2021, 4:20 am"
+    }
+]
